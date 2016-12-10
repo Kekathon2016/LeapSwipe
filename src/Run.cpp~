@@ -103,6 +103,8 @@ CURL *curl;
         timestamp = time(NULL);
 
         std::cout << std::endl;
+
+        //sleep(2);
         break;
       }
       default:
